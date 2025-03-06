@@ -12,7 +12,7 @@ This is the backend service for the Finance Tracker app, providing API endpoints
   
   - Secure API endpoints with JWT authentication
   
-  - Database integration with MongoDB (or SQL if preferred)
+  - Database integration with MongoDB
 
 # Tech Stack
 
