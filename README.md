@@ -37,9 +37,10 @@ This is the backend service for the Finance Tracker app, providing API endpoints
   
   3. Set up environment variables in a .env file:
   
-    PORT=5000
+    SERVER_PORT=8080
     MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_secret_key
+    JWT_SECRET_KEY=your_secret_key
+    JWT_TOKEN_EXPIRATION=7d
     
   4. Start the server:
   
