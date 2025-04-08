@@ -2,6 +2,13 @@
 
 This is a full-stack Finance Tracker application that helps users manage their personal finances. The app allows users to track transactions, view monthly summaries, and categorize expenses.
 
+**Login Page**:
+![Login Page](login-page.png)
+
+**Transaction Page**:
+![Transaction Page](transaction-page.png)
+
+
 ## Features
 - User registration and login
 - Add and edit transactions
